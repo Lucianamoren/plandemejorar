@@ -1,0 +1,197 @@
+.ff{
+	position: absolute;
+    top: 0px;
+    left: 0px;
+	height:90%; 
+	width:90%;
+	background: linear-gradient(to bottom, #E6D2ED 40%,#CBA9BF 60% ) fixed no-repeat;
+	z-index: 1;
+}
+
+@font-face{
+font-family: lu;
+src: url(MADETOMMY.ttf)
+}
+ .lu{
+  position: absolute;
+  font-family:MADE TOMMY;
+  top: -1%;
+  left: 8%;
+  font-size: 45px;
+ }
+
+
+ .b1{
+  position: absolute;
+  color: #1F434C;
+       top: 30%;
+      left: 8%;
+        font-family: Rockwell;
+  background: transparent;
+  border: none;
+      color: black;
+      padding: 8px 20px;
+      text-align: center;
+      display: inline-block;
+      font-size: 20px;
+      margin: 2px 2px;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: #917E93;
+      border-radius: 40px;
+      border: 2px solid #67897C;
+ }
+
+ .b1:hover{
+       background-color: #BBEDF3;
+      font color: white;
+
+ }
+
+ .b2{
+  position: absolute;
+  color: #B5EBAE;
+       top: 30%;
+      left: 28%;
+        font-family: Rockwell;
+  background: transparent;
+  border: none;
+      color: black;
+      padding: 8px 20px;
+      text-align: center;
+      display: inline-block;
+      font-size: 20px;
+      margin: 2px 2px;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: #917E93;
+      border-radius: 40px;
+      border: 2px solid #67897C;
+ }
+
+ .b2:hover{
+       background-color: #22D8EE;
+      font color: white;
+ }
+
+ .div1{
+position: absolute;
+top: 45%;
+left: 8%;
+width: 93%;
+height: 100%;
+background-color: #FFE6FA;
+}
+
+.t1{
+  position: absolute;
+  top: 16%;
+  left: 3%;
+  font-size: 20px;
+  font-family: MADE TOMMY;
+
+}
+
+.t2{
+  position: absolute;
+  top: -13%;
+  left: 3%;
+  font-size: 80px;
+  font-family: GOOD PEOPLE;
+  color: #681D35;
+}
+.t3{
+  position: absolute;
+  top: 17%;
+  left: 3%;
+  font-size: 20px;
+  font-family: MADE TOMMY;
+
+}
+
+.t4{
+  position: absolute;
+  top: -15%;
+  left: 3%;
+  font-size: 80px;
+  font-family: GOOD PEOPLE;
+  color: #7C2069;
+}
+.img{
+position: absolute;
+top: 19%;
+left: 60%;
+width: 33%;
+height: 60%;
+}
+
+ .div2{
+position: absolute;
+top: 160%;
+left: 8%;
+width: 93%;
+height: 86%;
+background-color: #E1C8DC;
+}
+ .b3{
+  position: absolute;
+  color: #B5EBAE;
+       top: 148%;
+      left: 49%;
+        font-family: Rockwell;
+  background: transparent;
+  border: none;
+      color: black;
+      padding: 8px 20px;
+      text-align: center;
+      display: inline-block;
+      font-size: 20px;
+      margin: 2px 2px;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: #917E93;
+      border-radius: 40px;
+      border: 2px solid #67897C;
+ }
+
+ .b3:hover{
+       background-color: #BBEDF3;
+      font color: white;
+ }
+ .b4{
+  position: absolute;
+  color: #B5EBAE;
+       top: 250%;
+      left: 49%;
+        font-family: Rockwell;
+  background: transparent;
+  border: none;
+      color: black;
+      padding: 8px 20px;
+      text-align: center;
+      display: inline-block;
+      font-size: 20px;
+      margin: 2px 2px;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+       background-color: #917E93;
+      border-radius: 40px;
+      border: 2px solid #67897C;
+ }
+
+ .b4:hover{
+       background-color: #BBEDF3;
+      font color: white;
+  }
+
+ .img2{
+position: absolute;
+top: 19%;
+left: 63%;
+width: 29%;
+height: 60%;
+}
